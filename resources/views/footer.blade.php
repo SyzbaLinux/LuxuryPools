@@ -16,10 +16,10 @@
                                 And renovate "old" pools to "new". We also offer pool cleaning and maintenance.
                             </p>
                             <div class="footer-pool">
-                                <img src="./img/resource/footer-pool.png" alt="">
+                                <img src="/assets/img/resource/footer-pool.png" alt="">
                             </div>
                             <div class="ftr-man">
-                                <img src="./img/resource/footer-man.png" alt="">
+                                <img src="/assets/img/resource/footer-man.png" alt="">
                             </div>
                         </div>
                     </div>

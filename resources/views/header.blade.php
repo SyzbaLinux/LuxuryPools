@@ -5,7 +5,7 @@
             <nav class="navbar navbar-expand-md  "  >
 
                 <a class="navbar-brand mt-2" href="#home">
-                    <img height="50"   src="./img/logo.png" alt="logo">
+                    <img height="50"   src="/assets/img/logo.png" alt="logo">
                 </a>
                 <button class="navbar-toggler"
                         type="button"
@@ -46,7 +46,7 @@
 <!-- Start mobile memu -->
 <header class="d-lg-none">
     <div class="logo-port">
-        <img height="50" src="./img/logo.png" alt="Luxury Pool Zimbabwe logo">
+        <img height="50" src="/assets/img/logo.png" alt="Luxury Pool Zimbabwe logo">
     </div>
 </header>
 <ul class="mobile_menu ">
